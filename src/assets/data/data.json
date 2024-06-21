@@ -1,0 +1,387 @@
+{
+  "main": {
+    "name": "Juan Luis",
+    "shortDesc": "Ingeniero informático, licenciado por la Universidad Tecnológica de Chile Inacap, con más de 10 años de experiencia laboral distribuidos en los rubros de soporte de sistemas para la industria agrícola, desarrollo y medios de pagos financieros. Su trayectoria está marcada por un profundo conocimiento en tecnologías de información y metodologías ágiles. Se destaca por su versatilidad, iniciativa y capacidad de aprendizaje continuo. Su pasión se centra en la innovación y la optimización de procesos.",
+
+    
+    
+    "titles": [
+      "Desarrollador Front End",
+      "Soporte de sistemas",
+      "Transacciones y medios de pagos financieros"
+    ],
+    "heroImage": "./../../../assets/images/Foto_Linkedin_Portafolio.png",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "./../../../assets/images/Fondo-Call.jpg",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "Ing. Informática",
+    "about": "Desde mi infancia, la tecnología me cautivó como un universo de posibilidades infinitas. En cada línea de código, en cada algoritmo, veía una puerta que se abría a un mundo de innovación y mejora. Mi viaje profesional ha sido una travesía llena de retos y aprendizajes. He tenido la fortuna de trabajar en diversos proyectos,Cada experiencia ha sido una oportunidad para crecer, aprender y perfeccionar mis habilidades.Más allá del trabajo, soy un apasionado de la vida. Me encanta escuchar música, aprender cosas nuevas y pasar tiempo con mi familia, amigos y mascotas.¿Qué me diferencia? Mi perseverancia inquebrantable, mi capacidad de aprendizaje constante, y la inspiración de mi abuelo. Él, siendo una persona visionaria en su tiempo, me enseñó el valor de cumplir los sueños. Y esa lección la llevo grabada en mi corazón, impulsándome a seguir adelante en cada desafío que se me presente.",
+    "callUrl": "number",
+    "resumeUrl": "url"
+  },
+  "socials": [
+    {
+      "icon": "https://img.icons8.com/material-outlined/96/null/linkedin.png",
+      "link": "https://www.linkedin.com/in/juanluisestrada/"
+    },
+    {
+      "icon": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "link": "https://github.com/Novaversocl"
+    }
+ 
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "HTML",
+      "image": "https://img.icons8.com/color/144/null/html-5.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS",
+      "image": "https://img.icons8.com/color/144/null/css3.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "React",
+      "image": "https://img.icons8.com/color/144/null/react-native.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Vue.js",
+      "image": "https://img.icons8.com/color/144/null/vue-js.png",
+      "category": "Frontend"
+    },
+
+    {
+      "name": "Sass",
+      "image": "https://img.icons8.com/color/144/null/sass.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://img.icons8.com/color/144/null/bootstrap.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind CSS",
+      "image": "https://img.icons8.com/color/144/null/tailwindcss.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Node.js",
+      "image": "https://img.icons8.com/color/144/null/nodejs.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Express.js",
+      "image": "https://img.icons8.com/color/144/null/express.png",
+      "category": "Backend"
+    },
+    {
+      "name": ".NET",
+      "image": "./../../../assets/images/net.png",
+      "category": "Backend"
+    },
+    {
+      "name": "PostgreSQL",
+      "image": "./../../../assets/images/postgresql.png",
+      "category": "Backend"
+    },
+ 
+    {
+      "name": "SQL Server",
+      "image": "./../../../assets/images/sql.png",
+      "category": "Backend"
+    },
+    {
+      "name": "MySQL",
+      "image": "./../../../assets/images/mysql.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Azure",
+      "image": "https://img.icons8.com/color/144/null/azure-1.png",
+      "category": "Backend"
+    },
+    {
+      "name": "APIs",
+      "image": "https://img.icons8.com/color/144/null/api.png",
+      "category": "Backend"
+    },
+   
+   
+   
+
+
+  
+    {
+      "name": "Figma",
+      "image": "https://img.icons8.com/color/144/null/figma.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Postman",
+      "image": "./../../../assets/images/postman.png",
+      "category": "Tools"
+    },
+    {
+      "name": "WordPress",
+      "image": "https://img.icons8.com/color/144/null/wordpress.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Jira",
+      "image": "https://img.icons8.com/color/144/null/jira.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Confluence",
+      "image": "https://img.icons8.com/color/144/null/confluence.png",
+      "category": "Tools"
+    },
+ 
+  
+    {
+      "name": "cPanel",
+      "image": "./../../../assets/images/cpanel.png",
+      "category": "Tools"
+    },
+    {
+      "name": "DNS Dominios",
+      "image": "https://img.icons8.com/color/144/null/dns.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Google Analytics",
+      "image": "https://img.icons8.com/color/144/null/google-analytics.png",
+      "category": "Tools"
+    },
+
+    {
+      "name": "Trello",
+      "image": "https://img.icons8.com/color/144/null/trello.png",
+      "category": "Tools"
+    },
+    
+    {
+      "name": "Power BI",
+      "image": "https://img.icons8.com/color/144/null/power-bi.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Grafana",
+      "image": "https://img.icons8.com/color/144/null/grafana.png",
+      "category": "Tools"
+    }
+  
+
+
+
+  ],
+  "projects": [
+
+    {
+      "name": " Lachocomau (En construcción)",
+      "description": "Servicios de productos de Reposteria",
+      "techstack": "Vite,React,Tailwind CSS,Figma.",
+      "contribution": "Lideré el desarrollo y la gestión del proyecto Lachocomau, fomentando una estrecha colaboración con el equipo Novaverso para ofrecer soluciones web excepcionales para microempresas",
+      "category": "Freelance",
+      "image": "./../../../assets/images/Lachocomau.jpg",
+      "links": {
+        "code": "https://github.com/Organizacion-Novaverso/Lachocomau",
+        "video": "adc",
+        "visit": "https://lachocomau.cl/"
+      }
+    },
+    {
+      "name": " Costos Chile",
+      "description": "Costos Chile es una plataforma web que ofrece servicios de optimización de costos para empresas.",
+      "techstack": "JavaScript,Bootstrap,HTML5,Cpanel,Dns,SSl,Email.",
+      "contribution": "Lideré y desarrollé el proyecto web Costos Chile, desde la planificación inicial hasta la implementación y despliegue en el hosting. Diseñé interfaces de usuario intuitivas y eficientes, manteniendo una comunicación proactiva con el cliente para asegurar la satisfacción continua www.costoschile.cl.",
+      "category": "Freelance",
+      "image": "./../../../assets/images/CostosChile.jpg",
+      "links": {
+        "code": "https://github.com/Novaversocl/CostosChile",
+        "video": "adc",
+        "visit": "https://www.costoschile.cl"
+      }
+    },
+    {
+      "name": "Novasoft",
+      "description": "Novasoft es una plataforma web que ofrece servicios de software punto de ventas y control de inventario.",
+      "techstack": "JavaScript, Bootstrap, HTML5, CSS3, cPanel, DNS, SSL, Email",
+      "contribution": "Encabecé el desarrollo integral de Novasoft, empleando tecnologías como JavaScript, Bootstrap. Dirigí la implementación completa del dominio DNS, certificado SSL, configuración de correos corporativos y cPanel, se optimizó para SEO con Google Analytics para mejorar su visibilidad en línea.", 
+      "category": "Freelance",
+      "image": "./../../../assets/images/Novasoft.jpg",
+      "links": {
+        "code": "",
+        "video": "adc",
+        "visit": "https://www.novasoft.cl"
+      }
+    
+    },
+    {
+      "name": "Software de Punto de Venta y Gestión de Inventario",
+     "description":"Sistema integral para optimizar ventas y gestión en Mipymes.",
+     "techstack": "Visual Basic .NET, SQL Server-MySQL",
+     "contribution":  "Desarrollé de forma independiente este software, desde el análisis de requisitos hasta la implementación y el soporte continuo. La aplicación permite a las Mipymes gestionar de manera eficiente sus ventas, inventario y finanzas, brindando información detallada para la toma de decisiones.",
+     "category": "Freelance",
+     "image": "./../../../assets/images/Pos.jpeg",
+      "links": {
+        "code": "",
+        "video": "adc",
+        "visit": "https://www.youtube.com/watch?v=XKGynEq1Cd8"
+      }
+    },
+    
+
+    {
+      "name": "Portafolio",
+      "description": "Portafolio Responsivo con Framework",
+      "techstack": "Angular,Tailwind CSS",
+      "contribution": "Desarrollé mi Portafolio con Angular y Tailwind CSS para un diseño moderno y un desarrollo rápido. TypeScript se utiliza para la claridad y seguridad del código. Además, El resultado es un sitio web de portafolio dinámico y funcional que muestra las habilidades y experiencia.", 
+      "category": "Freelance",
+      "image": "./../../../assets/images/Portafolio.jpg",
+      "links": {
+        "code": "https://github.com/Novaversocl/Portafolio",
+        "video": "adc",
+        "visit": ""
+      }
+    
+    },
+   
+    {
+      "name": "Pokédex",
+      "description": "Pokédex digital interactiva.",
+      "techstack": "JavaScript, Vue.js,Api,Axios,CSS.speechSynthesis.",
+      "contribution": "Desarrollé una Pokédex digital innovadora con una experiencia de juego dinámica y adictiva, destacando por efectos visuales avanzados y un diseño envolvente en 3D. Además, integré speechSynthesis para anunciar en voz alta los Pokémon descubiertos, agregando un toque mágico y demostrando habilidades técnicas y creativas excepcionales.",
+      "category": "Bootcamp Frontend",
+      "image": "./../../../assets/images/Pokemon.jpg",
+      "links": {
+        "code": "https://github.com/Novaversocl/Pokedex",
+        "video": "",
+        "visit": "https://pokedex-zeta-self.vercel.app/"
+      }
+    },
+    {
+      "name": "Citas médicas",
+      "description": "Aplicación de administración de citas médicas",
+      "techstack": "Vue.js, HTML, JavaScript",
+  "contribution": "Desarrollé una aplicación de administración de citas médicas con Vue.js, facilitando la gestión intuitiva y eficiente de citas mediante el uso de componentes y eventos.",
+      "category": "Bootcamp Frontend",
+      "image": "./../../../assets/images/Citas.jpg",
+      "links": {
+        "code": "https://github.com/Novaversocl/Admin_citas_medicas",
+        "video": "",
+        "visit": "https://admin-citas-medicas.vercel.app"
+      }
+    
+    },
+    {
+      "name": "Editor de Logos Demo",
+      "description": "Editor de logos en línea",
+      "techstack": "Vue.js, Axios, API de Google Fonts, CSS",
+      "contribution": "Desarrollé un Editor de logos que permite a los usuarios crear y personalizarlos, ofreciendo una variedad de opciones como cambiar colores, ajustar opacidades,descargar la imagen y seleccionar fuentes.", 
+      "category": "Bootcamp Frontend",
+      "image": "./../../../assets/images/Logo.jpg",
+      "links": {
+        "code": "https://github.com/Novaversocl/Editor_Logos",
+        "video": "",
+        "visit": "https://editor-logos.vercel.app/"
+      }
+    },
+    
+
+    {
+      "name": "Próximamente",
+      "description": "",
+      "techstack": "",
+      "contribution": "",
+      "category": "Aprendizaje y Exploración",
+      "image": "./../../../assets/images/Aprendizaje.jpg",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "Universidad Tecnológica de Chile, INACAP",
+      "degree": "Universidad",
+      "duration": "ene. 2018 - ene. 2022",
+      "desc": [
+        " Diplomado Diseño y Programación Web",
+        "Ingeniero en informática , Grado académico: Licenciado en InformáticaIngeniero en informática",
+        "Grado académico: Licenciado en Informática"
+      ]
+    },
+    {
+      "institute": "Universidad de Playa Ancha",
+      "degree": "Diplomado",
+      "duration": "nov. 2023 - feb. 2024",
+      "desc": [
+        " Diplomado Diseño y Gestión Ágil de Proyectos",
+        "Enfoque Lean, metodologías ágiles para la gestión y transformación digital.Enfoque Lean, metodologías ágiles para la gestión y transformación digital.",
+        "Aptitudes: Lean · Metodologías ágiles"
+      ]
+    },
+    {
+      "institute": "Instituto Profesional AIEP",
+      "degree": "Diplomado",
+      "duration": "nov. 2023 - feb. 2024",
+      "desc": [
+        " Diplomado Diseño y Programación Web",
+        "Desarrollo de páginas web, contenido digital/multimedia y recursos informáticosDesarrollo de páginas web, contenido digital/multimedia y recursos informáticos",
+        "Aptitudes: JavaScript · WordPress · Frameworks de JavaScript · Desarrollo en Wordpress"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Desarrollador Freelance .Net",
+      "position": "Novasoft",
+      "duration": "ene. 2022 - oct. 2023",
+      "desc": [
+        "Desarrolla de manera independiente un software de punto de venta y gestión de inventario con el objetivo de brindar apoyo a las Mipymes. Este sistema, construido con el lenguaje Visual. Net y base de datos SQL Server-MySQL, permite un control eficiente de los procesos de ventas y la administración de negocios. Además, el soporte continuo es proporcionado personalmente, garantizando un funcionamiento óptimo y facilitando la toma de decisiones a través de informes detallados",
+     
+        "Skills: | .NET | SQL-Server | Mysql|"
+      ]
+    },
+    {
+      "company": "Monitoreo Soporte TI Plataforma",
+      "position": "Ionix",
+      "duration": "ago. 2022 - nov. 2023",
+      "desc": [
+        "Monitorea de manera activa los servicios de clientes en plataformas como Enex, Unired, Mach y Edenred.",
+        "Realiza diagnósticos de logs, transacciones y registros de servicios alarmados, además de proporcionar soporte a los requerimientos de los clientes mediante la plataforma Jira.",
+        "Logros: Implementa Bitácora con Confluence y Dashboard para incidentes Enex, Unired, Mach.",
+        "Skills: | SQL | AWS | Scrum | Jira | Confluence | Zabbix | Grafana |"
+
+      ]
+    },
+    {
+      "company": "Desarrollador Freelance Front End",
+      "position": "Novaverso",
+      "duration": "dic. 2023 - actualidad",
+      "desc": [
+        "Desarrolla y gestiona proyecto Novaverso, enfocándose en proporcionar servicios de soluciones web innovadoras a microempresas.",
+        "Colabora estrechamente con un equipo, utilizando tecnologías como:",
+        "Skills: | JavaScript | ReactJS | TailwindCSS | HTML | SQL | CSS | Figma |"
+      ]
+    }
+  ]
+}

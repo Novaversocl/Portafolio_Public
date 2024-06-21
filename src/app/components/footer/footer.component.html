@@ -1,0 +1,30 @@
+<footer class="w-full bg-white dark:bg-gray-900 text-gray-500 dark:text-gray-200 ">
+    <div
+        class="xl:max-w-6xl mx-auto md:mx-6 lg:mx-10 xl:mx-auto py-4 lg:py-6 flex flex-col-reverse md:flex-row gap-2 md:gap-0 justify-between items-center">
+        <p class="text-sm mt-2 md:mt-0">
+            Desarrollado
+            <span class="animate-pulse"> ❤️ </span>
+            Por
+            <span class="text-violet-600"> {{ name }}</span>
+        </p>
+        <div class="hidden xl:flex items-center gap-2">
+
+            <a width="45" height="45" target="_blank" href="https://angular.io/">
+                <img src="./../../../assets/images/angular.png" alt="Angular" class=" h-5 invert dark:invert-0">
+            </a>
+            <p class="text-sm">X</p>
+
+            <a width="45" height="45" href="">
+                <img src="../../../assets/images/firebase.png" alt="Firebase" class="h-5">
+            </a>
+        </div>
+        <!-- Social Links -->
+        <div class="flex xl:hidden items-center gap-2">
+            <a *ngFor="let s of socials" href="{{ s.link }}" target="_blank" rel="noreferrer"
+                class="grid place-items-center p-3 rounded-full text-lg hover:bg-gray-100 hover:dark:bg-grey-900 transition-colors">
+                <img [src]="s.icon" width="20" height="20" decoding="async" data-nimg="1" class="" loading="lazy"
+                    style="color: transparent;">
+            </a>
+        </div>
+    </div>
+</footer>

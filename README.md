@@ -1,7 +1,4 @@
-# [Portafolio Angular]()
-
-![imagen](https://github.com/Novaversocl/Portafolio/assets/95386670/dbc1e166-1897-40c2-bb88-24ade585d8d5)
-
+# [Portafolio Angular Demo]()
 
 Portafolio Angular construido con Angular + TypeScript + Tailwind CSS
 
